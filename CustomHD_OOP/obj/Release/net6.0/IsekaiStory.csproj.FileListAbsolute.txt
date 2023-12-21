@@ -1,0 +1,14 @@
+C:\Users\ADMIN\OneDrive - Swinburne University\Year 1\Sem 3\COS20007\CustomProject\CustomHD_OOP\bin\Release\net6.0\IsekaiStory.exe
+C:\Users\ADMIN\OneDrive - Swinburne University\Year 1\Sem 3\COS20007\CustomProject\CustomHD_OOP\bin\Release\net6.0\IsekaiStory.deps.json
+C:\Users\ADMIN\OneDrive - Swinburne University\Year 1\Sem 3\COS20007\CustomProject\CustomHD_OOP\bin\Release\net6.0\IsekaiStory.runtimeconfig.json
+C:\Users\ADMIN\OneDrive - Swinburne University\Year 1\Sem 3\COS20007\CustomProject\CustomHD_OOP\bin\Release\net6.0\IsekaiStory.dll
+C:\Users\ADMIN\OneDrive - Swinburne University\Year 1\Sem 3\COS20007\CustomProject\CustomHD_OOP\bin\Release\net6.0\IsekaiStory.pdb
+C:\Users\ADMIN\OneDrive - Swinburne University\Year 1\Sem 3\COS20007\CustomProject\CustomHD_OOP\obj\Release\net6.0\IsekaiStory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive - Swinburne University\Year 1\Sem 3\COS20007\CustomProject\CustomHD_OOP\obj\Release\net6.0\IsekaiStory.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive - Swinburne University\Year 1\Sem 3\COS20007\CustomProject\CustomHD_OOP\obj\Release\net6.0\IsekaiStory.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive - Swinburne University\Year 1\Sem 3\COS20007\CustomProject\CustomHD_OOP\obj\Release\net6.0\IsekaiStory.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - Swinburne University\Year 1\Sem 3\COS20007\CustomProject\CustomHD_OOP\obj\Release\net6.0\IsekaiStory.dll
+C:\Users\ADMIN\OneDrive - Swinburne University\Year 1\Sem 3\COS20007\CustomProject\CustomHD_OOP\obj\Release\net6.0\refint\IsekaiStory.dll
+C:\Users\ADMIN\OneDrive - Swinburne University\Year 1\Sem 3\COS20007\CustomProject\CustomHD_OOP\obj\Release\net6.0\IsekaiStory.pdb
+C:\Users\ADMIN\OneDrive - Swinburne University\Year 1\Sem 3\COS20007\CustomProject\CustomHD_OOP\obj\Release\net6.0\IsekaiStory.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive - Swinburne University\Year 1\Sem 3\COS20007\CustomProject\CustomHD_OOP\obj\Release\net6.0\ref\IsekaiStory.dll

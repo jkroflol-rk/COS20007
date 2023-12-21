@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IsekaiStory.Entity">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAKAIQAAgAAAAADAAAAAIAAAAAAAAAQCEAIYAA=</HashCode>
+      <FileName>Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsekaiStory.Bullet">
+    <Position X="6.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQCAAAIAgAAAAAAAgAAAAEAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsekaiStory.Skeleton" Collapsed="true">
+    <Position X="4" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAACAIAAAkAAAABAKAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Skeleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsekaiStory.Menu" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsekaiStory.Player">
+    <Position X="1.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAgAAiAIAASkAAAABAIAAACIAAAAAQCAAQEAAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsekaiStory.Slime" Collapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAACAIAAAkAAAABAKAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Slime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsekaiStory.Game" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAgAAAAAACBQhAAAAIAAAAACAAAAABAAQAAAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsekaiStory.PlayerHUD" Collapsed="true">
+    <Position X="13" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PlayerHUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsekaiStory.Button" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAQAAwAAAAAAAAAAAAAAAAAIAQAQCAAAAgA=</HashCode>
+      <FileName>Button.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsekaiStory.LivingEntity">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAEAAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAA=</HashCode>
+      <FileName>LivingEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsekaiStory.Enemy">
+    <Position X="4" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="IsekaiStory.GameState" Collapsed="true">
+    <Position X="11.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAgAAAAAAAAIgAAAAAAAAAA=</HashCode>
+      <FileName>GameState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
