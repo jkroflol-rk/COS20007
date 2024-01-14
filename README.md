@@ -1,6 +1,7 @@
 # COS20007
 A 2D infinite mode shooting game made in C# and SplashKit - A graphics library.
-Requires C# and SplashKit to run.
+
+Requires C# and [SplashKit](https://splashkit.io/installation/) to run.
 
 # Demo screenshots:
 Title screen and highscore
