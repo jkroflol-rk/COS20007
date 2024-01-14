@@ -1,2 +1,2 @@
 # COS20007
-Object-oriented Programming
+A game made in C# and SplashKit - A graphics library.
